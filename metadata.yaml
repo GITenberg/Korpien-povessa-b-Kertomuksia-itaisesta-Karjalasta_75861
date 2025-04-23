@@ -1,0 +1,25 @@
+_repo: Korpien-povessa-b-Kertomuksia-itaisesta-Karjalasta_75861
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Sjöström, Juhani
+    gutenberg_agent_id: '58187'
+    url: http://www.gutenberg.org/2009/agents/58187
+description: ''
+gutenberg_issued: '2025-04-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75861'
+language: fi
+pgterms:marc905: 20231009074923sjstrm
+pgterms:marc906: '1908'
+pgterms:marc907: FI
+production_note: Tapio Riikonen
+publication_note: '  $aHelsinki :$bOtava, $c1908.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Korpien povessa : $b Kertomuksia itäisestä Karjalasta'
+url: http://www.gutenberg.org/ebooks/75861
